@@ -1,0 +1,11 @@
+C:\Users\pgoel\source\repos\TripAssistantResultsAPI\TripAssistantResultsAPI\bin\Debug\netcoreapp2.0\TripAssistantResultsAPI.deps.json
+C:\Users\pgoel\source\repos\TripAssistantResultsAPI\TripAssistantResultsAPI\bin\Debug\netcoreapp2.0\TripAssistantResultsAPI.runtimeconfig.json
+C:\Users\pgoel\source\repos\TripAssistantResultsAPI\TripAssistantResultsAPI\bin\Debug\netcoreapp2.0\TripAssistantResultsAPI.runtimeconfig.dev.json
+C:\Users\pgoel\source\repos\TripAssistantResultsAPI\TripAssistantResultsAPI\bin\Debug\netcoreapp2.0\TripAssistantResultsAPI.dll
+C:\Users\pgoel\source\repos\TripAssistantResultsAPI\TripAssistantResultsAPI\obj\Debug\netcoreapp2.0\TripAssistantResultsAPI.csprojAssemblyReference.cache
+C:\Users\pgoel\source\repos\TripAssistantResultsAPI\TripAssistantResultsAPI\obj\Debug\netcoreapp2.0\TripAssistantResultsAPI.csproj.CoreCompileInputs.cache
+C:\Users\pgoel\source\repos\TripAssistantResultsAPI\TripAssistantResultsAPI\obj\Debug\netcoreapp2.0\TripAssistantResultsAPI.AssemblyInfoInputs.cache
+C:\Users\pgoel\source\repos\TripAssistantResultsAPI\TripAssistantResultsAPI\obj\Debug\netcoreapp2.0\TripAssistantResultsAPI.AssemblyInfo.cs
+C:\Users\pgoel\source\repos\TripAssistantResultsAPI\TripAssistantResultsAPI\bin\Debug\netcoreapp2.0\TripAssistantResultsAPI.pdb
+C:\Users\pgoel\source\repos\TripAssistantResultsAPI\TripAssistantResultsAPI\obj\Debug\netcoreapp2.0\TripAssistantResultsAPI.dll
+C:\Users\pgoel\source\repos\TripAssistantResultsAPI\TripAssistantResultsAPI\obj\Debug\netcoreapp2.0\TripAssistantResultsAPI.pdb
