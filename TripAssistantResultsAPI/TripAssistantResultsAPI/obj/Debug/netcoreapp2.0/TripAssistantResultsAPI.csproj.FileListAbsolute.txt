@@ -9,3 +9,14 @@ C:\Users\pgoel\source\repos\TripAssistantResultsAPI\TripAssistantResultsAPI\obj\
 C:\Users\pgoel\source\repos\TripAssistantResultsAPI\TripAssistantResultsAPI\bin\Debug\netcoreapp2.0\TripAssistantResultsAPI.pdb
 C:\Users\pgoel\source\repos\TripAssistantResultsAPI\TripAssistantResultsAPI\obj\Debug\netcoreapp2.0\TripAssistantResultsAPI.dll
 C:\Users\pgoel\source\repos\TripAssistantResultsAPI\TripAssistantResultsAPI\obj\Debug\netcoreapp2.0\TripAssistantResultsAPI.pdb
+D:\git\TripAssistantResultApi\TripAssistantResultsAPI\TripAssistantResultsAPI\bin\Debug\netcoreapp2.0\TripAssistantResultsAPI.deps.json
+D:\git\TripAssistantResultApi\TripAssistantResultsAPI\TripAssistantResultsAPI\bin\Debug\netcoreapp2.0\TripAssistantResultsAPI.runtimeconfig.json
+D:\git\TripAssistantResultApi\TripAssistantResultsAPI\TripAssistantResultsAPI\bin\Debug\netcoreapp2.0\TripAssistantResultsAPI.runtimeconfig.dev.json
+D:\git\TripAssistantResultApi\TripAssistantResultsAPI\TripAssistantResultsAPI\bin\Debug\netcoreapp2.0\TripAssistantResultsAPI.dll
+D:\git\TripAssistantResultApi\TripAssistantResultsAPI\TripAssistantResultsAPI\bin\Debug\netcoreapp2.0\TripAssistantResultsAPI.pdb
+D:\git\TripAssistantResultApi\TripAssistantResultsAPI\TripAssistantResultsAPI\obj\Debug\netcoreapp2.0\TripAssistantResultsAPI.csprojAssemblyReference.cache
+D:\git\TripAssistantResultApi\TripAssistantResultsAPI\TripAssistantResultsAPI\obj\Debug\netcoreapp2.0\TripAssistantResultsAPI.csproj.CoreCompileInputs.cache
+D:\git\TripAssistantResultApi\TripAssistantResultsAPI\TripAssistantResultsAPI\obj\Debug\netcoreapp2.0\TripAssistantResultsAPI.AssemblyInfoInputs.cache
+D:\git\TripAssistantResultApi\TripAssistantResultsAPI\TripAssistantResultsAPI\obj\Debug\netcoreapp2.0\TripAssistantResultsAPI.AssemblyInfo.cs
+D:\git\TripAssistantResultApi\TripAssistantResultsAPI\TripAssistantResultsAPI\obj\Debug\netcoreapp2.0\TripAssistantResultsAPI.dll
+D:\git\TripAssistantResultApi\TripAssistantResultsAPI\TripAssistantResultsAPI\obj\Debug\netcoreapp2.0\TripAssistantResultsAPI.pdb

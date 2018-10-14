@@ -8,7 +8,6 @@ using GoogleMaps.LocationServices;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using TripAssistantResultsAPI.Models;
 
 namespace TripAssistantResultsAPI.Controllers
 {
@@ -48,9 +47,7 @@ namespace TripAssistantResultsAPI.Controllers
         {
             int count = 0;
             List<double> locations = new List<double>();
-            JObject value;
-            JObject location;
-            JObject geometry;
+            JObject value,location,geometry;
             double latitude = 0;
             double longitude = 0;
            
@@ -106,7 +103,7 @@ namespace TripAssistantResultsAPI.Controllers
 
                 else if (keywords.Length > 1)
                 {
-                    if (keywords[1] == "one")
+                    if (keywords[1] == "1")
                     {
                         url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" + lat + "," + lng + "&radius=100000&keyword=attractions&key=AIzaSyD2bL_pYSzue4JkSDQg4fYSuVT8XA_bjCQ";
                         var jsonPrediction = client.DownloadString(url);
@@ -158,4 +155,5 @@ namespace TripAssistantResultsAPI.Controllers
         }
     }
 }
+
 

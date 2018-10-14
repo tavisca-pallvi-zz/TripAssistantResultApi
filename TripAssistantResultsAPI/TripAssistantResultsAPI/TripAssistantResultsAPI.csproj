@@ -5,6 +5,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Controllers\GeoLocationController.cs" />
+    <Compile Remove="Models\GeoLocation.cs" />
+    <Compile Remove="Models\Google.cs" />
+    <Compile Remove="Models\ListRootObject.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
